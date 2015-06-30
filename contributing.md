@@ -5,7 +5,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Only Open Source workflow engines.
 - Make an individual pull request for each suggestion.
-- Use the following format: `[List Name](link)`
+- Use the following format: `[List Name](link)`.
 - The pull request and commit should have a useful title.
 
 Thank you for your suggestions!
