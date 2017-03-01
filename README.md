@@ -10,3 +10,4 @@ A curated list of awesome open source workflow engines
  * [Pinball](https://github.com/pinterest/pinball) - scalable workflow manager by Pinterest
  * [RunDeck](http://rundeck.org/) - Job Scheduler and Runbook Automation.
  * [Ruote](http://ruote.io/) - a workflow engine written in Ruby.
+ * [Workflow Engine](https://workflowengine.io) - a lightweight .NET and Java workflow engine.
