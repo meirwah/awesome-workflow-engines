@@ -13,3 +13,4 @@ A curated list of awesome open source workflow engines
  * [RunDeck](http://rundeck.org/) - Job Scheduler and Runbook Automation.
  * [Ruote](http://ruote.io/) - A workflow engine written in Ruby (dead, supplanted by Flor).
  * [Workflow Engine](https://workflowengine.io) - A lightweight .NET and Java workflow engine.
+ * [Piper](https://github.com/creactiviti/piper) - A distributed Java workflow engine designed to be dead simple.
