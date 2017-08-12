@@ -1,7 +1,8 @@
 # awesome-workflow-engines
 A curated list of awesome open source workflow engines
 
- * [Azkaban](https://azkaban.github.io/) - Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.
+* [Airflow](https://github.com/apache/incubator-airflow) - Python-based platform for running directed acyclic graphs (DAGs) of tasks
+* [Azkaban](https://azkaban.github.io/) - Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.
  * [Bip.io](https://bip.io/) - Web Automation For People And Robots.
  * [CloudSlang](http://www.cloudslang.io/) - Workflow engine to automate your DevOps use cases.
  * [DigDag](https://www.digdag.io) - Digdag is a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks.
