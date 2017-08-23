@@ -19,4 +19,4 @@ A curated list of awesome open source workflow engines
 
 ## Library (embedded usage)
  * [Luigi](https://github.com/spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
- * [Camunda] (https://camunda.org) - Both a java library and optionally a full fledged product on top of it.
+ * [Camunda](https://camunda.org) - Both a java library and optionally a full fledged product on top of it.
