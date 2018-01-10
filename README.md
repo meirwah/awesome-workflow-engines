@@ -14,6 +14,7 @@ A curated list of awesome open source workflow engines
 * [Pinball](https://github.com/pinterest/pinball) - scalable workflow manager by Pinterest
 * [RunDeck](http://rundeck.org/) - Job Scheduler and Runbook Automation.
 * [Workflow Engine](https://workflowengine.io) - A lightweight .NET and Java workflow engine.
+* [Workflow Core](https://github.com/danielgerlag/workflow-core) - Workflow Core is a light weight workflow engine targeting .NET Standard. 
 
 ## SAAS
 * [Bip.io](https://bip.io/) - Web Automation For People And Robots.
