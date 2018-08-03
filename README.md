@@ -23,6 +23,7 @@ A curated list of awesome open source workflow engines
 * [jBPM](https://www.jbpm.org/) - The core of jBPM is a light-weight, extensible workflow engine written in pure Java that allows you to execute business processes using the latest BPMN 2.0 specification.
 * [Activiti](https://www.activiti.org/) - Activiti is a leading lightweight, java-centric open-source BPMN engine supporting real-world process automation needs. 
 * [Activiti Cloud](https://activiti.gitbooks.io/activiti-7-developers-guide/content/introduction.html) is now the new generation of business automation platform offering a set of cloud native building blocks designed to run on distributed infrastructures.
+* [Flowable](https://github.com/flowable/flowable-engine) - The Flowable project provides a core set of open source business process engines that are compact and highly efficient. They provide a workflow and Business Process Management (BPM) platform for developers, system admins and business users.
 
 ## SAAS
 * [Bip.io](https://bip.io/) - Web Automation For People And Robots.
