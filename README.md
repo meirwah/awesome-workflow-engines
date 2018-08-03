@@ -18,6 +18,7 @@ A curated list of awesome open source workflow engines
 * [RunDeck](http://rundeck.org/) - Job Scheduler and Runbook Automation.
 * [Workflow Engine](https://workflowengine.io) - A lightweight .NET and Java workflow engine.
 * [Workflow Core](https://github.com/danielgerlag/workflow-core) - Workflow Core is a light weight workflow engine targeting .NET Standard. 
+* [Copper](https://github.com/copper-engine/copper-engine) - A high performance Java workflow engine.
 
 ## BPM Suite
 * [jBPM](https://www.jbpm.org/) - The core of jBPM is a light-weight, extensible workflow engine written in pure Java that allows you to execute business processes using the latest BPMN 2.0 specification.
