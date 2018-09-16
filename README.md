@@ -3,6 +3,7 @@ A curated list of awesome open source workflow engines
 
 ## Full fledged product
 * [Airflow](https://github.com/apache/incubator-airflow) - Python-based platform for running directed acyclic graphs (DAGs) of tasks
+* [Argo](https://github.com/argoproj/argo) - Open source container-native workflow engine for getting work done on Kubernetes
 * [Azkaban](https://azkaban.github.io/) - Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.
 * [Cadence](https://github.com/uber/cadence) - An orchestration engine to execute asynchronous long-running business logic developed by Uber Engineering.
 * [CloudSlang](http://www.cloudslang.io/) - Workflow engine to automate your DevOps use cases.
