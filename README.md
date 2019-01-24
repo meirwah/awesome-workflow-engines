@@ -12,6 +12,7 @@ A curated list of awesome open source workflow engines
 * [Fission Workflows](https://github.com/fission/fission-workflows) - A high-perfomant workflow engine for serverless functions on Kubernetes.
 * [Flor](https://github.com/floraison/flor) - A workflow engine written in Ruby.
 * [Imixs-Workflow](https://www.imixs.org) - A powerful human-centric Workflow Engine based on the BPMN 2.0 standard.
+* [Kiba](https://www.kiba-etl.org/) - Data processing & ETL framework for Ruby
 * [Mistral](https://wiki.openstack.org/wiki/Mistral) - Workflow service, in OpenStack foundation.
 * [Oozie](http://oozie.apache.org/) - Workflow Scheduler for Hadoop.
 * [Piper](https://github.com/creactiviti/piper) - A distributed Java workflow engine designed to be dead simple.
