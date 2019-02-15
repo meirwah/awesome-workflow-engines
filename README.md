@@ -2,6 +2,7 @@
 A curated list of awesome open source workflow engines
 
 ## Full fledged product
+* [Activeeon](https://www.activeeon.com) - Scalable open source workflow engine for automation, scheduling, orchestration and machine learning.
 * [Airflow](https://github.com/apache/incubator-airflow) - Python-based platform for running directed acyclic graphs (DAGs) of tasks
 * [Argo](https://github.com/argoproj/argo) - Open source container-native workflow engine for getting work done on Kubernetes
 * [Azkaban](https://azkaban.github.io/) - Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.
