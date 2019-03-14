@@ -38,3 +38,5 @@ A curated list of awesome open source workflow engines
 * [Camunda](https://camunda.org) - Both a java library and optionally a full fledged product on top of it.
 * [Captain](https://github.com/LiveRamp/captain) - Distributed, light-weight java workflow engine for a microservice architecture.
 * [Viewflow](http://viewflow.io) - Reusable workflow library that helps organize people collaboration business logic in django applications.
+* [Workflow Core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
+
