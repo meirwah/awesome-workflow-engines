@@ -18,6 +18,7 @@ A curated list of awesome open source workflow engines
 * [Piper](https://github.com/creactiviti/piper) - A distributed Java workflow engine designed to be dead simple.
 * [Pinball](https://github.com/pinterest/pinball) - scalable workflow manager by Pinterest
 * [RunDeck](http://rundeck.org/) - Job Scheduler and Runbook Automation.
+* [Titanoboa](https://titanoboa.io/) - Titanoboa is a platform for creating complex workflows on JVM.
 * [Wexflow](https://wexflow.github.io) - A high-performance, extensible, modular and cross-platform workflow engine.
 * [Workflow Engine](https://workflowengine.io) - A lightweight .NET and Java workflow engine.
 * [Workflow Core](https://github.com/danielgerlag/workflow-core) - Workflow Core is a light weight workflow engine targeting .NET Standard.
