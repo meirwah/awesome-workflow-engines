@@ -5,6 +5,7 @@ A curated list of awesome open source workflow engines
 * [Airflow](https://github.com/apache/incubator-airflow) - Python-based platform for running directed acyclic graphs (DAGs) of tasks
 * [Argo](https://github.com/argoproj/argo) - Open source container-native workflow engine for getting work done on Kubernetes
 * [Azkaban](https://azkaban.github.io/) - Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.
+* [Brigade](https://brigade.sh/) - Brigade is a tool for running scriptable, automated tasks in the cloud — as part of your Kubernetes cluster.
 * [Cadence](https://github.com/uber/cadence) - An orchestration engine to execute asynchronous long-running business logic developed by Uber Engineering.
 * [CloudSlang](http://www.cloudslang.io/) - Workflow engine to automate your DevOps use cases.
 * [Conductor](https://netflix.github.io/conductor/) - Netflix's Conductor is an orchestration engine that runs in the cloud.
