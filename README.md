@@ -17,6 +17,7 @@ A curated list of awesome open source workflow engines
 * [Kiba](https://www.kiba-etl.org/) [![Stars](https://img.shields.io/github/stars/thbar/kiba.svg)](https://github.com/thbar/kiba) - Data processing & ETL framework for Ruby
 * [Mistral](https://wiki.openstack.org/wiki/Mistral) [![Stars](https://img.shields.io/github/stars/openstack/mistral.svg)](https://github.com/openstack/mistral) - Workflow service, in OpenStack foundation.
 * [Oozie](http://oozie.apache.org/) [![Stars](https://img.shields.io/github/stars/apache/oozie.svg)](https://github.com/apache/oozie) - Workflow Scheduler for Hadoop.
+* [Pegasus](https://pegasus.isi.edu/) [![Stars](https://img.shields.io/github/stars/pegasus-isi/pegasus.svg)](https://github.com/pegasus-isi/pegasus)  - Automate, recover, and debug scientific computations.
 * [Piper](https://github.com/creactiviti/piper) [![Stars](https://img.shields.io/github/stars/creactiviti/piper.svg)](https://github.com/creactiviti/piper)  - A distributed Java workflow engine designed to be dead simple.
 * [Pinball](https://github.com/pinterest/pinball) [![Stars](https://img.shields.io/github/stars/pinterest/pinball.svg)](https://github.com/pinterest/pinball)  - scalable workflow manager by Pinterest
 * [RunDeck](http://rundeck.org/) [![Stars](https://img.shields.io/github/stars/rundeck/rundeck.svg)](https://github.com/rundeck/rundeck) - Job Scheduler and Runbook Automation.
