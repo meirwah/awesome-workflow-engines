@@ -30,16 +30,19 @@ A curated list of awesome open source workflow engines
 
 ## BPM Suite
 * [jBPM](https://www.jbpm.org/) [![Stars](https://img.shields.io/github/stars/kiegroup/jbpm.svg)](https://github.com/kiegroup/jbpm) - The core of jBPM is a light-weight, extensible workflow engine written in pure Java that allows you to execute business processes using the latest BPMN 2.0 specification.
-* [Activiti](https://www.activiti.org/) [![Stars](https://img.shields.io/github/stars/Activiti/Activiti.svg)](https://github.com/Activiti/Activiti) - Activiti is a leading lightweight, java-centric open-source BPMN engine supporting real-world process automation needs.
-* [Activiti Cloud](https://activiti.gitbooks.io/activiti-7-developers-guide/content/introduction.html) - is now the new generation of business automation platform offering a set of cloud native building blocks designed to run on distributed infrastructures.
-* [Flowable](https://github.com/flowable/flowable-engine) [![Stars](https://img.shields.io/github/stars/flowable/flowable-engine.svg)](https://github.com/flowable/flowable-engine) - The Flowable project provides a core set of open source business process engines that are compact and highly efficient. They provide a workflow and Business Process Management (BPM) platform for developers, system admins and business users.
 
 ## SAAS
 * [Bip.io](https://bip.io/) - Web Automation For People And Robots.
 
 ## Library (embedded usage)
 * [Luigi](https://github.com/spotify/luigi) [![Stars](https://img.shields.io/github/stars/spotify/luigi.svg)](https://github.com//spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
-* [Camunda](https://camunda.org) [![Stars](https://img.shields.io/github/stars/camunda/camunda-bpm-platform.svg)](https://github.com/camunda/camunda-bpm-platform) - Both a java library and optionally a full fledged product on top of it.
+* [Activiti](https://www.activiti.org/) [![Stars](https://img.shields.io/github/stars/Activiti/Activiti.svg)](https://github.com/Activiti/Activiti) - Activiti is a leading lightweight, java-centric open-source BPMN engine supporting real-world process automation needs. Backed by Alfresco, it offers a webapp for editing processes visually, a webapp for administration and a webapp for the REST API. It can be used also as a library for a Spring Boot app.
+* [Activiti Cloud](https://activiti.gitbooks.io/activiti-7-developers-guide/content/introduction.html) - is now the new generation of business automation platform offering a set of cloud native building blocks designed to run on distributed infrastructures.
+* [Flowable](https://github.com/flowable/flowable-engine) [![Stars](https://img.shields.io/github/stars/flowable/flowable-engine.svg)](https://github.com/flowable/flowable-engine) - The Flowable project born as a fork of Activiti 6. It provides a core set of open source business process engines that are compact and highly efficient. They provide a workflow and Business Process Management (BPM) platform for developers, system admins and business users.
+* [Camunda](https://camunda.org) [![Stars](https://img.shields.io/github/stars/camunda/camunda-bpm-platform.svg)](https://github.com/camunda/camunda-bpm-platform) - Born as a fork of Activiti 5, it offers a full compliance with BPMN 2.0, CMMN support, high performance and protection from deadlocks. As Activiti, it has a diagram editor (as desktop app) and webapp for administrering processes and users.
 * [Captain](https://github.com/LiveRamp/captain) [![Stars](https://img.shields.io/github/stars/LiveRamp/captain.svg)](https://github.com/LiveRamp/captain) - Distributed, light-weight java workflow engine for a microservice architecture.
 * [Viewflow](http://viewflow.io) [![Stars](https://img.shields.io/github/stars/viewflow/viewflow.svg)](https://github.com/viewflow/viewflow) - Reusable workflow library that helps organize people collaboration business logic in django applications.
 * [Workflow Core](https://github.com/danielgerlag/workflow-core) [![Stars](https://img.shields.io/github/stars/danielgerlag/workflow-core.svg)](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
+
+## Petri Net
+* [YAWL](http://www.yawlfoundation.org/) [![Stars](https://img.shields.io/github/stars/yawlfoundation/yawl.svg)](https://github.com/yawlfoundation/yawl) - A workflow system with an editor with a strong validator and embedded admin server with auto-generated forms. It uses native data handling using XML Schema, XPath and XQuery. It can import and run also BPMN models.
