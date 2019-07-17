@@ -36,6 +36,7 @@ A curated list of awesome open source workflow engines
 
 ## SAAS
 * [Bip.io](https://bip.io/) - Web Automation For People And Robots.
+* [Zenaton](https://zenaton.com) - Workflow engine for data processes and background jobs.
 
 ## Library (embedded usage)
 * [Luigi](https://github.com/spotify/luigi) [![Stars](https://img.shields.io/github/stars/spotify/luigi.svg)](https://github.com//spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
