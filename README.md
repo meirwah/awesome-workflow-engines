@@ -18,6 +18,7 @@ A curated list of awesome open source workflow engines
 * [Imixs-Workflow](https://www.imixs.org) [![Stars](https://img.shields.io/github/stars/imixs/imixs-workflow.svg)](https://github.com/imixs/imixs-workflow) - A powerful human-centric Workflow Engine based on the BPMN 2.0 standard.
 * [Kiba](https://www.kiba-etl.org/) [![Stars](https://img.shields.io/github/stars/thbar/kiba.svg)](https://github.com/thbar/kiba) - Data processing & ETL framework for Ruby
 * [Mistral](https://docs.openstack.org/mistral/latest) [![Stars](https://img.shields.io/github/stars/openstack/mistral.svg)](https://github.com/openstack/mistral) - Workflow service, in OpenStack foundation.
+* [Nextflow](https://www.nextflow.io/) [![Stars](https://img.shields.io/github/stars/nextflow-io/nextflow.svg)](https://github.com/nextflow-io/nextflow) - Develop container-backed, reproducible workflows portable across computational platforms including local, HPC schedulers, AWS Batch, Google Genomics Pipelines, and Kubernetes. 
 * [Oozie](http://oozie.apache.org/) [![Stars](https://img.shields.io/github/stars/apache/oozie.svg)](https://github.com/apache/oozie) - Workflow Scheduler for Hadoop.
 * [Pegasus](https://pegasus.isi.edu/) [![Stars](https://img.shields.io/github/stars/pegasus-isi/pegasus.svg)](https://github.com/pegasus-isi/pegasus)  - Automate, recover, and debug scientific computations.
 * [Pinball](https://github.com/pinterest/pinball) [![Stars](https://img.shields.io/github/stars/pinterest/pinball.svg)](https://github.com/pinterest/pinball)  - scalable workflow manager by Pinterest
