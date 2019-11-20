@@ -26,6 +26,7 @@ A curated list of awesome open source workflow engines
 * [Prefect](https://github.com/PrefectHQ/prefect) [![Stars](https://img.shields.io/github/stars/PrefectHQ/prefect.svg)](https://github.com/PrefectHQ/prefect)  - Prefect is a new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine
 * [RunDeck](http://rundeck.org/) [![Stars](https://img.shields.io/github/stars/rundeck/rundeck.svg)](https://github.com/rundeck/rundeck) - Job Scheduler and Runbook Automation.
 * [Titanoboa](https://titanoboa.io/) [![Stars](https://img.shields.io/github/stars/mikub/titanoboa.svg)](https://github.com/mikub/titanoboa) - Titanoboa is a platform for creating complex workflows on JVM.
+* [uTask](https://github.com/ovh/utask) [![Stars](https://img.shields.io/github/stars/ovh/utask)](https://github.com/ovh/utask/stargazers) - Automation engine that models and executes business processes declared in yaml.
 * [Wexflow](https://wexflow.github.io) [![Stars](https://img.shields.io/github/stars/aelassas/Wexflow.svg)](https://github.com/aelassas/Wexflow) - A high-performance, extensible, modular and cross-platform workflow engine.
 * [Workflow Core](https://github.com/danielgerlag/workflow-core) [![Stars](https://img.shields.io/github/stars/danielgerlag/workflow-core.svg)](https://github.com/danielgerlag/workflow-core) - Workflow Core is a light weight workflow engine targeting .NET Standard.
 * [Workflow Engine](https://workflowengine.io) - A lightweight .NET and Java workflow engine.
