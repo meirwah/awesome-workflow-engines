@@ -32,7 +32,8 @@ A curated list of awesome open source workflow engines
 * [Workflow Core](https://github.com/danielgerlag/workflow-core) [![Stars](https://img.shields.io/github/stars/danielgerlag/workflow-core.svg)](https://github.com/danielgerlag/workflow-core) - Workflow Core is a light weight workflow engine targeting .NET Standard.
 * [Workflow Engine](https://workflowengine.io) - A lightweight .NET and Java workflow engine.
 * [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe) - A workflow engine for microservices orchestration that's capable of executing BPMN models, developed by the team at Camunda
-* [CoreWF](https://github.com/UiPath/corewf)[![Stars](https://img.shields.io/github/stars/UiPath/corewf.svg)](https://github.com/UiPath/corewf) - WF runtime ported to work on .NET Core
+* [WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET) [![Stars](https://img.shields.io/github/stars/optimajet/WorkflowEngine.NET.svg)](https://github.com/optimajet/WorkflowEngine.NET) - WorkflowEngine.NET - component that adds workflow in your application. It can be fully integrated into your application, or be in the form of a specific service (such as a web service)
+* [CoreWF](https://github.com/UiPath/corewf) [![Stars](https://img.shields.io/github/stars/UiPath/corewf.svg)](https://github.com/UiPath/corewf) - WF runtime ported to work on .NET Core
 
 ## BPM Suite
 
@@ -52,4 +53,5 @@ A curated list of awesome open source workflow engines
 * [Luigi](https://github.com/spotify/luigi) [![Stars](https://img.shields.io/github/stars/spotify/luigi.svg)](https://github.com//spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
 * [Viewflow](http://viewflow.io) [![Stars](https://img.shields.io/github/stars/viewflow/viewflow.svg)](https://github.com/viewflow/viewflow) - Reusable workflow library that helps organize people collaboration business logic in django applications.
 * [Workflow Core](https://github.com/danielgerlag/workflow-core) [![Stars](https://img.shields.io/github/stars/danielgerlag/workflow-core.svg)](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
-* [CoreWF](https://github.com/UiPath/corewf)[![Stars](https://img.shields.io/github/stars/UiPath/corewf.svg)](https://github.com/UiPath/corewf) - WF runtime ported to work on .NET Core
+* [WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET) [![Stars](https://img.shields.io/github/stars/optimajet/WorkflowEngine.NET.svg)](https://github.com/optimajet/WorkflowEngine.NET) - WorkflowEngine.NET - component that adds workflow in your application. It can be fully integrated into your application, or be in the form of a specific service (such as a web service)
+* [CoreWF](https://github.com/UiPath/corewf) [![Stars](https://img.shields.io/github/stars/UiPath/corewf.svg)](https://github.com/UiPath/corewf) - WF runtime ported to work on .NET Core
