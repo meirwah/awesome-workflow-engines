@@ -34,6 +34,7 @@ A curated list of awesome open source workflow engines
 * [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe) - A workflow engine for microservices orchestration that's capable of executing BPMN models, developed by the team at Camunda
 * [WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET) [![Stars](https://img.shields.io/github/stars/optimajet/WorkflowEngine.NET.svg)](https://github.com/optimajet/WorkflowEngine.NET) - WorkflowEngine.NET - component that adds workflow in your application. It can be fully integrated into your application, or be in the form of a specific service (such as a web service)
 * [CoreWF](https://github.com/UiPath/corewf) [![Stars](https://img.shields.io/github/stars/UiPath/corewf.svg)](https://github.com/UiPath/corewf) - WF runtime ported to work on .NET Core
+* [elsa-workflows](https://github.com/elsa-workflows/elsa-core)[![Stars](https://img.shields.io/github/stars/elsa-workflows/elsa-core.svg)](https://github.com/elsa-workflows/elsa-core) - A .NET Standard 2.0 Workflows Library
 
 ## BPM Suite
 
@@ -55,3 +56,4 @@ A curated list of awesome open source workflow engines
 * [Workflow Core](https://github.com/danielgerlag/workflow-core) [![Stars](https://img.shields.io/github/stars/danielgerlag/workflow-core.svg)](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
 * [WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET) [![Stars](https://img.shields.io/github/stars/optimajet/WorkflowEngine.NET.svg)](https://github.com/optimajet/WorkflowEngine.NET) - WorkflowEngine.NET - component that adds workflow in your application. It can be fully integrated into your application, or be in the form of a specific service (such as a web service)
 * [CoreWF](https://github.com/UiPath/corewf) [![Stars](https://img.shields.io/github/stars/UiPath/corewf.svg)](https://github.com/UiPath/corewf) - WF runtime ported to work on .NET Core
+* [elsa-workflows](https://github.com/elsa-workflows/elsa-core)[![Stars](https://img.shields.io/github/stars/elsa-workflows/elsa-core.svg)](https://github.com/elsa-workflows/elsa-core) - A .NET Standard 2.0 Workflows Library
