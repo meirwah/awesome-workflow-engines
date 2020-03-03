@@ -33,8 +33,8 @@ A curated list of awesome open source workflow engines
 * [Wexflow](https://wexflow.github.io) [![Stars](https://img.shields.io/github/stars/aelassas/Wexflow.svg)](https://github.com/aelassas/Wexflow) - A high-performance, extensible, modular and cross-platform workflow engine.
 * [Workflow Core](https://github.com/danielgerlag/workflow-core) [![Stars](https://img.shields.io/github/stars/danielgerlag/workflow-core.svg)](https://github.com/danielgerlag/workflow-core) - Workflow Core is a light weight workflow engine targeting .NET Standard.
 * [Workflow Engine](https://workflowengine.io) - A lightweight .NET and Java workflow engine.
-* [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe) - A workflow engine for microservices orchestration that's capable of executing BPMN models, developed by the team at Camunda
 * [WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET) [![Stars](https://img.shields.io/github/stars/optimajet/WorkflowEngine.NET.svg)](https://github.com/optimajet/WorkflowEngine.NET) - WorkflowEngine.NET - component that adds workflow in your application. It can be fully integrated into your application, or be in the form of a specific service (such as a web service)
+* [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe) - A workflow engine for microservices orchestration that's capable of executing BPMN models, developed by the team at Camunda
 
 
 ## BPM Suite
