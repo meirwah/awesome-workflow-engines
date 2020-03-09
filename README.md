@@ -13,6 +13,8 @@ A curated list of awesome open source workflow engines
 * [Cromwell](https://github.com/broadinstitute/cromwell) [![Stars](https://img.shields.io/github/stars/broadinstitute/cromwell.svg)](https://github.com/broadinstitute/cromwell) - Workflow engine written in Scala and designed for simplicity and scalability. Executes workflows written in [WDL](https://github.com/openwdl/wdl) or [CWL](https://www.commonwl.org/).
 * [Cylc](https://cylc.github.io/) [![Stars](https://img.shields.io/github/stars/cylc/cylc-flow.svg)](https://github.com/cylc/cylc-flow) - Workflow engine that orchestrates complex distributed workflows with cyclic or acyclic graphs. It was originally designed to automate weather forecasting systems at NIWA.
 * [DigDag](https://www.digdag.io) [![Stars](https://img.shields.io/github/stars/treasure-data/digdag.svg)](https://github.com/treasure-data/digdag) - Digdag is a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks.
+* [elsa-workflows](https://github.com/elsa-workflows/elsa-core) [![Stars](https://img.shields.io/github/stars/elsa-workflows/elsa-core.svg)](https://github.com/elsa-workflows/elsa-core) - A .NET Standard 2.0 Workflows Library.
+* [easy-rules](https://github.com/j-easy/easy-rules) [![Stars](https://img.shields.io/github/stars/j-easy/easy-rules.svg)](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java.
 * [FireWorks](https://materialsproject.github.io/fireworks/) [![Stars](https://img.shields.io/github/stars/materialsproject/fireworks.svg)](https://github.com/materialsproject/fireworks) - FireWorks stores, executes, and manages calculation workflows.
 * [Fission Workflows](https://github.com/fission/fission-workflows) [![Stars](https://img.shields.io/github/stars/fission/fission-workflows.svg)](https://github.com/fission/fission-workflows) - A high-perfomant workflow engine for serverless functions on Kubernetes.
 * [Flor](https://github.com/floraison/flor) [![Stars](https://img.shields.io/github/stars/floraison/flor.svg)](https://github.com/floraison/flor) - A workflow engine written in Ruby.
@@ -30,9 +32,9 @@ A curated list of awesome open source workflow engines
 * [Titanoboa](https://titanoboa.io/) [![Stars](https://img.shields.io/github/stars/mikub/titanoboa.svg)](https://github.com/mikub/titanoboa) - Titanoboa is a platform for creating complex workflows on JVM.
 * [uTask](https://github.com/ovh/utask) [![Stars](https://img.shields.io/github/stars/ovh/utask)](https://github.com/ovh/utask/stargazers) - Automation engine that models and executes business processes declared in yaml.
 * [Wexflow](https://wexflow.github.io) [![Stars](https://img.shields.io/github/stars/aelassas/Wexflow.svg)](https://github.com/aelassas/Wexflow) - A high-performance, extensible, modular and cross-platform workflow engine.
-* [Workflow Core](https://github.com/danielgerlag/workflow-core) [![Stars](https://img.shields.io/github/stars/danielgerlag/workflow-core.svg)](https://github.com/danielgerlag/workflow-core) - Workflow Core is a light weight workflow engine targeting .NET Standard.
 * [Workflow Engine](https://workflowengine.io) - A lightweight .NET and Java workflow engine.
 * [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe) - A workflow engine for microservices orchestration that's capable of executing BPMN models, developed by the team at Camunda
+
 
 ## BPM Suite
 
@@ -49,6 +51,9 @@ A curated list of awesome open source workflow engines
 
 * [Camunda](https://camunda.org) [![Stars](https://img.shields.io/github/stars/camunda/camunda-bpm-platform.svg)](https://github.com/camunda/camunda-bpm-platform) - Both a java library and optionally a full fledged product on top of it.
 * [Captain](https://github.com/LiveRamp/captain) [![Stars](https://img.shields.io/github/stars/LiveRamp/captain.svg)](https://github.com/LiveRamp/captain) - Distributed, light-weight java workflow engine for a microservice architecture.
+* [CoreWF](https://github.com/UiPath/corewf) [![Stars](https://img.shields.io/github/stars/UiPath/corewf.svg)](https://github.com/UiPath/corewf) - WF runtime ported to work on .NET Core
 * [Luigi](https://github.com/spotify/luigi) [![Stars](https://img.shields.io/github/stars/spotify/luigi.svg)](https://github.com//spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
 * [Viewflow](http://viewflow.io) [![Stars](https://img.shields.io/github/stars/viewflow/viewflow.svg)](https://github.com/viewflow/viewflow) - Reusable workflow library that helps organize people collaboration business logic in django applications.
 * [Workflow Core](https://github.com/danielgerlag/workflow-core) [![Stars](https://img.shields.io/github/stars/danielgerlag/workflow-core.svg)](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
+* [WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET) [![Stars](https://img.shields.io/github/stars/optimajet/WorkflowEngine.NET.svg)](https://github.com/optimajet/WorkflowEngine.NET) - WorkflowEngine.NET - component that adds workflow in your application. It can be fully integrated into your application, or be in the form of a specific service (such as a web service)
+
