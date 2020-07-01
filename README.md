@@ -7,7 +7,7 @@ A curated list of awesome open source workflow engines
 * [Azkaban](https://azkaban.github.io/) [![Stars](https://img.shields.io/github/stars/azkaban/azkaban.svg)](https://github.com/azkaban/azkaban) - Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.
 * [Brigade](https://brigade.sh/) [![Stars](https://img.shields.io/github/stars/brigadecore/brigade.svg)](https://github.com/brigadecore/brigade) - Brigade is a tool for running scriptable, automated tasks in the cloud — as part of your Kubernetes cluster.
 * [Cadence](https://github.com/uber/cadence) [![Stars](https://img.shields.io/github/stars/uber/cadence.svg)](https://github.com/uber/cadence) - An orchestration engine to execute asynchronous long-running business logic developed by Uber Engineering.
-* [Camunda](https://camunda.com) [![Stars](https://img.shields.io/github/stars/camunda/camunda-bpm-platform.svg)](https://github.com/camunda/camunda-bpm-platform) - Workflow engine that can be embedded as java library (e.g. Spring Boot) or used standalone. Full fledged product on top of it, including graphical modeler and operations tooling.
+* [Camunda](https://camunda.com) [![Stars](https://img.shields.io/github/stars/camunda/camunda-bpm-platform.svg)](https://github.com/camunda/camunda-bpm-platform) - BPMN-based workflow engine that can be embedded as java library (e.g. Spring Boot) or used standalone, including a graphical modeler and operations tooling.
 * [CloudSlang](http://www.cloudslang.io/) [![Stars](https://img.shields.io/github/stars/CloudSlang/cloud-slang.svg)](https://github.com/CloudSlang/cloud-slang) - Workflow engine to automate your DevOps use cases.
 * [Conductor](https://netflix.github.io/conductor/) [![Stars](https://img.shields.io/github/stars/Netflix/conductor.svg)](https://github.com/Netflix/conductor) - Netflix's Conductor is an orchestration engine that runs in the cloud.
 * [Copper](https://github.com/copper-engine/copper-engine) [![Stars](https://img.shields.io/github/stars/copper-engine/copper-engine.svg)](https://github.com/copper-engine/copper-engine) - A high performance Java workflow engine.
@@ -38,7 +38,7 @@ A curated list of awesome open source workflow engines
 * [uTask](https://github.com/ovh/utask) [![Stars](https://img.shields.io/github/stars/ovh/utask)](https://github.com/ovh/utask/stargazers) - Automation engine that models and executes business processes declared in yaml.
 * [Wexflow](https://wexflow.github.io) [![Stars](https://img.shields.io/github/stars/aelassas/Wexflow.svg)](https://github.com/aelassas/Wexflow) - A high-performance, extensible, modular and cross-platform workflow engine.
 * [Workflow Engine](https://workflowengine.io) - A lightweight .NET and Java workflow engine.
-* [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe) - A horizontally scalable, cloud-native workflow engine that executes BPMN models. Zeebe is best operated on Kubernetes and polyglot clients connect via gRPC or available language clients. Zeee is developed by the team at Camunda and offered as Camunda Cloud.
+* [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe) - A horizontally scalable, cloud-native workflow engine that executes BPMN models and is best operated on Kubernetes; polyglot clients connect via gRPC or available language clients.
 
 
 ## BPM Suite
@@ -55,7 +55,7 @@ A curated list of awesome open source workflow engines
 
 ## Library (embedded usage)
 
-* [Camunda](https://camunda.com) [![Stars](https://img.shields.io/github/stars/camunda/camunda-bpm-platform.svg)](https://github.com/camunda/camunda-bpm-platform) - Workflow engine that can be embedded as java library (e.g. Spring Boot) or used standalone. Full fledged product on top of it, including graphical modeler and operations tooling.
+* [Camunda](https://camunda.com) [![Stars](https://img.shields.io/github/stars/camunda/camunda-bpm-platform.svg)](https://github.com/camunda/camunda-bpm-platform) - BPMN-based workflow engine that can be embedded as java library (e.g. Spring Boot) or used standalone, including a graphical modeler and operations tooling.
 * [Captain](https://github.com/LiveRamp/captain) [![Stars](https://img.shields.io/github/stars/LiveRamp/captain.svg)](https://github.com/LiveRamp/captain) - Distributed, light-weight java workflow engine for a microservice architecture.
 * [CoreWF](https://github.com/UiPath/corewf) [![Stars](https://img.shields.io/github/stars/UiPath/corewf.svg)](https://github.com/UiPath/corewf) - WF runtime ported to work on .NET Core
 * [Kogito](https://kogito.kie.org/) [![Stars]( https://img.shields.io/github/stars/kiegroup/kogito-runtimes.svg )](https://github.com/kiegroup/kogito-runtimes) - Cloud-native business automation technology. Embeddable to produce JVM or GraalVM artifacts or interacted through Kafka & REST APIs
