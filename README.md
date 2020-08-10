@@ -49,6 +49,7 @@ A curated list of awesome open source workflow engines
 
 ## SAAS
 * [Bip.io](https://bip.io/) - Web Automation For People And Robots.
+* [Refinery.io](https://refinery.io/) - Serverless IDE that allows you to visually build complex workflows (HTTP APIs, map/reduce, etc) on top of AWS Lambda. Supports writing in Python, Node.js, Golang, Ruby, and other languages.
 * [Zenaton](https://zenaton.com) - Workflow engine for data processes and background jobs available in PHP, Node.js, Python and Ruby.
 
 ## Library (embedded usage)
