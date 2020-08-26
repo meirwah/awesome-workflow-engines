@@ -38,7 +38,8 @@ A curated list of awesome open source workflow engines
 * [uTask](https://github.com/ovh/utask) [![Stars](https://img.shields.io/github/stars/ovh/utask)](https://github.com/ovh/utask/stargazers) - Automation engine that models and executes business processes declared in yaml.
 * [Wexflow](https://wexflow.github.io) [![Stars](https://img.shields.io/github/stars/aelassas/Wexflow.svg)](https://github.com/aelassas/Wexflow) - A high-performance, extensible, modular and cross-platform workflow engine.
 * [Workflow Engine](https://workflowengine.io) - A lightweight .NET and Java workflow engine.
-* [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe) - A workflow engine for microservices orchestration that's capable of executing BPMN models, developed by the team at Camunda
+* [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe) - A workflow engine for microservices orchestration that's capable of executing BPMN models, developed by the team at Camunda.
+* [FaasFlow](https://github.com/s8sg/faas-flow) [![Stars](https://img.shields.io/github/stars/s8sg/faas-flow.svg)](https://github.com/s8sg/faas-flow/stargazers) - A high-performance DAG based workflow engine for OpenFaaS, with a seperate golang SDK to build complex pipeline.
 
 
 ## BPM Suite
