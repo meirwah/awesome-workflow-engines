@@ -11,6 +11,7 @@ A curated list of awesome open source workflow engines
 * [CloudSlang](http://www.cloudslang.io/) [![Stars](https://img.shields.io/github/stars/CloudSlang/cloud-slang.svg)](https://github.com/CloudSlang/cloud-slang) - Workflow engine to automate your DevOps use cases.
 * [Conductor](https://netflix.github.io/conductor/) [![Stars](https://img.shields.io/github/stars/Netflix/conductor.svg)](https://github.com/Netflix/conductor) - Netflix's Conductor is an orchestration engine that runs in the cloud.
 * [Copper](https://github.com/copper-engine/copper-engine) [![Stars](https://img.shields.io/github/stars/copper-engine/copper-engine.svg)](https://github.com/copper-engine/copper-engine) - A high performance Java workflow engine.
+* [Couler](https://github.com/couler-proj/couler) [![Stars](https://img.shields.io/github/stars/couler-proj/couler.svg)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
 * [Cromwell](https://github.com/broadinstitute/cromwell) [![Stars](https://img.shields.io/github/stars/broadinstitute/cromwell.svg)](https://github.com/broadinstitute/cromwell) - Workflow engine written in Scala and designed for simplicity and scalability. Executes workflows written in [WDL](https://github.com/openwdl/wdl) or [CWL](https://www.commonwl.org/).
 * [Cylc](https://cylc.github.io/) [![Stars](https://img.shields.io/github/stars/cylc/cylc-flow.svg)](https://github.com/cylc/cylc-flow) - Workflow engine that orchestrates complex distributed workflows with cyclic or acyclic graphs. It was originally designed to automate weather forecasting systems at NIWA.
 * [DigDag](https://www.digdag.io) [![Stars](https://img.shields.io/github/stars/treasure-data/digdag.svg)](https://github.com/treasure-data/digdag) - Digdag is a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks.
@@ -34,6 +35,7 @@ A curated list of awesome open source workflow engines
 * [Popper](https://github.com/systemslab/popper) [![Stars](https://img.shields.io/github/stars/systemslab/popper.svg)](https://github.com/systemslab/popper)  - Lightweight, YAML based container-native workflow engine supporting Docker, Singularity, Vagrant VMs with Docker daemon in VM, and local host.
 * [Prefect](https://github.com/PrefectHQ/prefect) [![Stars](https://img.shields.io/github/stars/PrefectHQ/prefect.svg)](https://github.com/PrefectHQ/prefect)  - Prefect is a new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine
 * [RunDeck](http://rundeck.org/) [![Stars](https://img.shields.io/github/stars/rundeck/rundeck.svg)](https://github.com/rundeck/rundeck) - Job Scheduler and Runbook Automation.
+* [StackStorm](https://stackstorm.com/) [![Stars](https://img.shields.io/github/stars/stackstorm/st2.svg)](https://github.com/StackStorm/st2) - Robust Automation Engine providing Sensors, Triggers, Rules, Workflows, and Actions. StackStorm is how you "glue" your applications together.
 * [Titanoboa](https://titanoboa.io/) [![Stars](https://img.shields.io/github/stars/mikub/titanoboa.svg)](https://github.com/mikub/titanoboa) - Titanoboa is a platform for creating complex workflows on JVM.
 * [uTask](https://github.com/ovh/utask) [![Stars](https://img.shields.io/github/stars/ovh/utask)](https://github.com/ovh/utask/stargazers) - Automation engine that models and executes business processes declared in yaml.
 * [Wexflow](https://wexflow.github.io) [![Stars](https://img.shields.io/github/stars/aelassas/Wexflow.svg)](https://github.com/aelassas/Wexflow) - A high-performance, extensible, modular and cross-platform workflow engine.
@@ -51,6 +53,7 @@ A curated list of awesome open source workflow engines
 ## SAAS
 * [Bip.io](https://bip.io/) - Web Automation For People And Robots.
 * [Camunda Cloud](https://camunda.com/products/cloud/) - A workflow service executing BPMN, providing various language clients, based on the open source project [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe).
+* [Refinery.io](https://refinery.io/) - Serverless IDE that allows you to visually build complex workflows (HTTP APIs, map/reduce, etc) on top of AWS Lambda. Supports writing in Python, Node.js, Golang, Ruby, and other languages.
 * [Zenaton](https://zenaton.com) - Workflow engine for data processes and background jobs available in PHP, Node.js, Python and Ruby.
 
 ## Library (embedded usage)
