@@ -28,6 +28,7 @@ A curated list of awesome open source workflow engines
 * [Imixs-Workflow](https://www.imixs.org) [![Stars](https://img.shields.io/github/stars/imixs/imixs-workflow.svg)](https://github.com/imixs/imixs-workflow) - A powerful human-centric Workflow Engine based on the BPMN 2.0 standard.
 * [Kiba](https://www.kiba-etl.org/) [![Stars](https://img.shields.io/github/stars/thbar/kiba.svg)](https://github.com/thbar/kiba) - Data processing & ETL framework for Ruby
 * [Petri Flow](https://github.com/hooopo/petri_flow) [![Stars](https://img.shields.io/github/stars/hooopo/petri_flow.svg)](https://github.com/hooopo/petri_flow) - Petri Net workflow engine for Ruby.
+* [Martian](https://martian-lang.org) [![Stars](https://img.shields.io/github/stars/martian-lang/martian.svg)](https://github.com/martian-lang/martian) - An elegant, powerful language and framework for building high-performance computational pipelines.
 * [MassTransit](https://masstransit-project.com)[![Stars](https://img.shields.io/github/stars/masstransit/masstransit.svg)](https://github.com/masstransit/masstransit) - .Net Messaging system with Saga Workflow Support
 * [Mistral](https://docs.openstack.org/mistral/latest) [![Stars](https://img.shields.io/github/stars/openstack/mistral.svg)](https://github.com/openstack/mistral) - Workflow service, in OpenStack foundation.
 * [N8n-io](https://n8n.io) [![Stars](https://img.shields.io/github/stars/n8n-io/n8n.svg)](https://github.com/n8n-io/n8n) - Free and open node based Workflow Automation Tool. Easily automate tasks across different services.
