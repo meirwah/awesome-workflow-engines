@@ -6,7 +6,7 @@ A curated list of awesome open source workflow engines
 ## Full fledged product
 
 * [Airflow](https://github.com/apache/incubator-airflow) [![Stars](https://img.shields.io/github/stars/apache/incubator-airflow.svg)](https://github.com/apache/incubator-airflow) - Python-based platform for running directed acyclic graphs (DAGs) of tasks
-* [Argo](https://github.com/argoproj/argo) [![Stars](https://img.shields.io/github/stars/argoproj/argo.svg)](https://github.com/argoproj/argo) - Open source container-native workflow engine for getting work done on Kubernetes
+* [Argo Workflows](https://github.com/argoproj/argo-workflows) [![Stars](https://img.shields.io/github/stars/argoproj/argo-workflows.svg)](https://github.com/argoproj/argo-workflows) - Open source container-native workflow engine for getting work done on Kubernetes
 * [Azkaban](https://azkaban.github.io/) [![Stars](https://img.shields.io/github/stars/azkaban/azkaban.svg)](https://github.com/azkaban/azkaban) - Batch workflow job scheduler created at LinkedIn to run Hadoop jobs.
 * [Brigade](https://brigade.sh/) [![Stars](https://img.shields.io/github/stars/brigadecore/brigade.svg)](https://github.com/brigadecore/brigade) - Brigade is a tool for running scriptable, automated tasks in the cloud — as part of your Kubernetes cluster.
 * [Cadence](https://github.com/uber/cadence) [![Stars](https://img.shields.io/github/stars/uber/cadence.svg)](https://github.com/uber/cadence) - An orchestration engine to execute asynchronous long-running business logic developed by Uber Engineering.
