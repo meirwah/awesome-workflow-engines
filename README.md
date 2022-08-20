@@ -46,6 +46,7 @@ A curated list of awesome open source workflow engines
 * [Parsl](https://parsl-project.org/) [![Stars](https://img.shields.io/github/stars/Parsl/parsl.svg)](https://github.com/Parsl/parsl) - Python framework for workflow orchestration and parallelization based on a dynamic graph of tasks and their data dependencies.
 * [Pegasus](https://pegasus.isi.edu/) [![Stars](https://img.shields.io/github/stars/pegasus-isi/pegasus.svg)](https://github.com/pegasus-isi/pegasus)  - Automate, recover, and debug scientific computations.
 * [Piper](https://github.com/creactiviti/piper) [![Stars](https://img.shields.io/github/stars/creactiviti/piper.svg)](https://github.com/creactiviti/piper)  - A distributed Java workflow engine designed to be dead simple.
+* [Platformeco](https://platformeco.com/) - Technology platform, allows Product & Project teams easily build micro services using drag & drop UI and operate it, within out of the box cloud and CI/CD tools with deep tracing & monitoring.
 * [Plynx](https://plynx.com) [![Stars](https://img.shields.io/github/stars/plynx-team/plynx.svg)](https://github.com/plynx-team/plynx) - Interactive platform with drag and drop interface for building and deploying portable and scalable end-to-end data driven workflows.
 * [Popper](https://github.com/systemslab/popper) [![Stars](https://img.shields.io/github/stars/systemslab/popper.svg)](https://github.com/systemslab/popper)  - Lightweight, YAML based container-native workflow engine supporting Docker, Singularity, Vagrant VMs with Docker daemon in VM, and local host.
 * [Prefect](https://github.com/PrefectHQ/prefect) [![Stars](https://img.shields.io/github/stars/PrefectHQ/prefect.svg)](https://github.com/PrefectHQ/prefect)  - Prefect is a new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine
@@ -71,7 +72,10 @@ A curated list of awesome open source workflow engines
 
 ## SAAS
 
+* [AWS Step Functions](https://aws.amazon.com/step-functions/?step-functions) - Clear workflows for modern applications.
+* [Braze](https://www.braze.com/) - Power customer-centric interactions between consumers and brands in real-time.
 * [Camunda Cloud](https://camunda.com/products/cloud/) - A workflow service executing BPMN, providing various language clients, based on the open source project [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe).
+* [Corezoid](https://corezoid.com/) - Hyperautomation engine.
 * [Refinery.io](https://refinery.io/) - Serverless IDE that allows you to visually build complex workflows (HTTP APIs, map/reduce, etc) on top of AWS Lambda. Supports writing in Python, Node.js, Golang, Ruby, and other languages.
 * [Zenaton](https://zenaton.com) - Workflow engine for data processes and background jobs available in PHP, Node.js, Python and Ruby.
 
