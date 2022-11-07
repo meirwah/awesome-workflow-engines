@@ -58,6 +58,7 @@ A curated list of awesome open source workflow engines
 * [Titanoboa](https://titanoboa.io/) [![Stars](https://img.shields.io/github/stars/mikub/titanoboa.svg)](https://github.com/mikub/titanoboa) - Titanoboa is a platform for creating complex workflows on JVM.
 * [uTask](https://github.com/ovh/utask) [![Stars](https://img.shields.io/github/stars/ovh/utask)](https://github.com/ovh/utask/stargazers) - Automation engine that models and executes business processes declared in yaml.
 * [Workflow Engine](https://workflowengine.io) - A lightweight .NET and Java workflow engine.
+* [Wexflow - Open Source Workflow Engine](https://github.com/aelassas/wexflow) - Wexflow is an open source and cross-platform workflow engine and automation platform that aims to automate recurring tasks. With the help of Wexflow, building automation and workflow processes become easy.
 * [YAWL](https://yawlfoundation.github.io/index.html) [![Stars](https://img.shields.io/github/stars/yawlfoundation/yawl.svg)](https://github.com/yawlfoundation/yawl) - (Yet Another Workflow Language), Java-based, handles complex data transformations, and full integration with organizational resources and external Web Services.
 * [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe) - A horizontally scalable, cloud-native workflow engine that executes BPMN models and is best operated on Kubernetes; polyglot clients connect via gRPC or available language clients.
 
