@@ -87,6 +87,7 @@ A curated list of awesome open source workflow engines
 ## Library (embedded usage)
 
 * [Automatiko](https://automatiko.io) [![Stars](https://img.shields.io/github/stars/automatiko-io/automatiko-engine.svg)](https://github.com/automatiko-io/automatiko-engine) - a toolkit to build services and functions based on workflows (primarily BPMN2). Introduces and implements concepts: workflow as a service, workflow as a function and workflow as a function flow.
+* [C++ Workflow](https://github.com/sogou/workflow) [![Stars](https://img.shields.io/github/stars/sogou/workflow.svg)](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine.
 * [Camunda](https://camunda.com) [![Stars](https://img.shields.io/github/stars/camunda/camunda-bpm-platform.svg)](https://github.com/camunda/camunda-bpm-platform) - BPMN-based workflow engine that can be embedded as java library (e.g. Spring Boot) or used standalone, including a graphical modeler and operations tooling.
 * [Captain](https://github.com/LiveRamp/captain) [![Stars](https://img.shields.io/github/stars/LiveRamp/captain.svg)](https://github.com/LiveRamp/captain) - Distributed, light-weight java workflow engine for a microservice architecture.
 * [CoreWF](https://github.com/UiPath/corewf) [![Stars](https://img.shields.io/github/stars/UiPath/corewf.svg)](https://github.com/UiPath/corewf) - WF runtime ported to work on .NET Core
