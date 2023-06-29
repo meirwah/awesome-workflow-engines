@@ -80,6 +80,7 @@ A curated list of awesome open source workflow engines
 ## SAAS
 
 * [AWS Step Functions](https://aws.amazon.com/step-functions/?step-functions) - Clear workflows for modern applications.
+* [Azure Logic Apps](https://azure.microsoft.com/en-us/products/logic-apps) - Built on a containerized runtime, deploy and run anywhere to increase scale and portability while automating business-critical workflows.
 * [Braze](https://www.braze.com/) - Power customer-centric interactions between consumers and brands in real-time.
 * [Camunda Cloud](https://camunda.com/products/cloud/) - A workflow service executing BPMN, providing various language clients, based on the open source project [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe).
 * [Corezoid](https://corezoid.com/) - Hyperautomation engine.
@@ -97,6 +98,7 @@ A curated list of awesome open source workflow engines
 * [CoreWF](https://github.com/UiPath/corewf) [![Stars](https://img.shields.io/github/stars/UiPath/corewf.svg)](https://github.com/UiPath/corewf) - WF runtime ported to work on .NET Core
 * [Dagger](https://github.com/wayfair-incubator/dagger) - Dagger is a distributed, horizointally scalable, durable, and highly available orchestration engine in python based on [Faust-Streaming](https://github.com/faust-streaming/faust) for running millions of long running tasks with direct integration with Kafka
 * [Django River](https://github.com/javrasya/django-river) [![Stars](https://img.shields.io/github/stars/javrasya/django-river.svg)](https://github.com/javrasya/django-river) - Django workflow library that supports on the fly changes for states, transitions, and authorizations
+* [Durable Task Framework](https://github.com/Azure/durabletask) [![Stars](https://img.shields.io/github/stars/Azure/durabletask.svg)](https://github.com/Azure/durabletask) - Durable Task Framework (DTFx) is a library that allows users to write long running persistent workflows in C#.
 * [Kogito](https://kogito.kie.org/) [![Stars]( https://img.shields.io/github/stars/kiegroup/kogito-runtimes.svg )](https://github.com/kiegroup/kogito-runtimes) - Cloud-native business automation technology. Embeddable to produce JVM or GraalVM artifacts or interacted through Kafka & REST APIs
 * [Luigi](https://github.com/spotify/luigi) [![Stars](https://img.shields.io/github/stars/spotify/luigi.svg)](https://github.com//spotify/luigi) - Python module that helps you build complex pipelines of batch jobs.
 * [SciPipe](https://github.com/scipipe/scipipe) [![Stars](https://img.shields.io/github/stars/scipipe/scipipe.svg)](https://github.com/scipipe/scipipe) - A Go library for writing pipelines of Bash commands or Go-code using the dataflow / flow-based programming paradigm.
