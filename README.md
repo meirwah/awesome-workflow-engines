@@ -90,6 +90,7 @@ A curated list of awesome open source workflow engines
 * [Braze](https://www.braze.com/) - Power customer-centric interactions between consumers and brands in real-time.
 * [Camunda Cloud](https://camunda.com/products/cloud/) - A workflow service executing BPMN, providing various language clients, based on the open source project [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe).
 * [Corezoid](https://corezoid.com/) - Hyperautomation engine.
+* [Embed Workflow](https://embedworkflow.com/) - Simple native workflow builder for your end-users
 * [Orkes Conductor](https://orkes.io/cloud/) - Orkes provides Netflix Conductor as a cloud services across all the major cloud providers with enterprise features such as security, integrations and Visual workflow code editor.
 * [Google Cloud Workflows](https://cloud.google.com/workflows/) - Combine Google Cloud services and APIs to  build reliable applications, process automation, and data and machine learning pipelines.
 * [Refinery.io](https://refinery.io/) - Serverless IDE that allows you to visually build complex workflows (HTTP APIs, map/reduce, etc) on top of AWS Lambda. Supports writing in Python, Node.js, Golang, Ruby, and other languages.
