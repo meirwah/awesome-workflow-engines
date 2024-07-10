@@ -6,6 +6,7 @@ A curated list of awesome open source workflow engines
 ## Full fledged product
 
 * [Activepieces](https://github.com/activepieces/activepieces) [![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)](https://github.com/activepieces/activepieces) - Open source no-code business automation, alternative to Zapier
+* [AiiDA](https://github.com/aiidateam/aiida-core) [![Stars](https://img.shields.io/github/stars/aiidateam/aiida-core.svg)](https://github.com/aiidateam/aiida-core) - Open source workflow manager for computational science with strong focus on performance, provenance, and extensibility.
 * [Airflow](https://github.com/apache/incubator-airflow) [![Stars](https://img.shields.io/github/stars/apache/incubator-airflow.svg)](https://github.com/apache/incubator-airflow) - Python-based platform for running directed acyclic graphs (DAGs) of tasks
 * [Argo Workflows](https://github.com/argoproj/argo-workflows) [![Stars](https://img.shields.io/github/stars/argoproj/argo-workflows.svg)](https://github.com/argoproj/argo-workflows) - Open source container-native workflow engine for getting work done on Kubernetes
 * [Arvados](https://github.com/arvados/arvados) [![Stars](https://img.shields.io/github/stars/arvados/arvados.svg)](https://github.com/arvados/arvados) - Open Source data and workflow management platform with emphasis on reproducibily, scale, and secure data sharing, deployable on cloud and HPC.
