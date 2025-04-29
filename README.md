@@ -102,7 +102,6 @@ A curated list of awesome open source workflow engines
 * [Orkes Conductor](https://orkes.io/cloud/) - Orkes provides Netflix Conductor as a cloud services across all the major cloud providers with enterprise features such as security, integrations and Visual workflow code editor.
 * [Google Cloud Workflows](https://cloud.google.com/workflows/) - Combine Google Cloud services and APIs to  build reliable applications, process automation, and data and machine learning pipelines.
 * [Inngest](https://www.inngest.com/) - A scalable, event-driven durable execution platform
-* [Refinery.io](https://refinery.io/) - Serverless IDE that allows you to visually build complex workflows (HTTP APIs, map/reduce, etc) on top of AWS Lambda. Supports writing in Python, Node.js, Golang, Ruby, and other languages.
 * [Zenaton](https://zenaton.com) - Workflow engine for data processes and background jobs available in PHP, Node.js, Python and Ruby.
 
 
