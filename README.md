@@ -5,6 +5,9 @@
 ## Full Fledged Product
 
 ### [**Activepieces**](https://github.com/activepieces/activepieces) ![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)
+
+<img width="1470" alt="Screenshot 2025-06-17 at 2 03 29 PM" src="https://github.com/user-attachments/assets/14b647d6-59cb-47af-acea-e295505e9ca8" />
+
   1. Open-source no-code automation platform.
   2. Serves as a Zapier alternative with drag-and-drop capabilities.
   3. Enables app-to-app automation (Slack, Gmail, Notion, etc.).
@@ -17,6 +20,9 @@
   10. Suitable for startups and enterprises automating repetitive tasks.
 
 ### [**AiiDA**](https://github.com/aiidateam/aiida-core) ![Stars](https://img.shields.io/github/stars/aiidateam/aiida-core.svg)
+
+<img width="1470" alt="Screenshot 2025-06-17 at 2 04 16 PM" src="https://github.com/user-attachments/assets/56770f9e-a66e-4f91-ac27-ea827ce21494" />
+
   1. Scientific workflow manager tailored for computational science.
   2. Provides full provenance tracking for all computations.
   3. Optimized for use with high-performance computing (HPC) environments.
@@ -29,6 +35,9 @@
   10. Backed by a strong academic research community.
 
 ### [**Apache Airflow**](https://github.com/apache/incubator-airflow) ![Stars](https://img.shields.io/github/stars/apache/incubator-airflow.svg)
+
+<img width="1470" alt="Screenshot 2025-06-17 at 2 05 43 PM" src="https://github.com/user-attachments/assets/7b25c317-7075-4620-963c-b79f7e761c8a" />
+
   1. Python-based platform for authoring, scheduling, and monitoring workflows.
   2. Organizes tasks in directed acyclic graphs (DAGs).
   3. Ideal for ETL, batch processing, and data pipeline orchestration.
@@ -41,6 +50,9 @@
   10. Apache project with wide adoption and community.
 
 ### [**Argo Workflows**](https://github.com/argoproj/argo-workflows) ![Stars](https://img.shields.io/github/stars/argoproj/argo-workflows.svg)
+
+<img width="1470" alt="Screenshot 2025-06-17 at 2 06 15 PM" src="https://github.com/user-attachments/assets/b8d6d388-a880-465d-a94c-fee5e83041c2" />
+
   1. Kubernetes-native workflow engine.
   2. Uses YAML for workflow definitions; runs containers as steps.
   3. Ideal for CI/CD, ML workflows, and data processing on Kubernetes.
@@ -53,6 +65,9 @@
   10. CNCF project with growing enterprise adoption.
 
 ### [**Arvados**](https://github.com/arvados/arvados) ![Stars](https://img.shields.io/github/stars/arvados/arvados.svg)
+
+![Uploading Screenshot 2025-06-17 at 2.06.39 PM.png…]()
+
 - Open-source data and workflow management system.
 - Built for large-scale bioinformatics and genomics pipelines.
 - Emphasizes reproducibility, collaboration, and auditability.
