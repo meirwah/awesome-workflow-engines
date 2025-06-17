@@ -1,4 +1,4 @@
-# Awesome Workflow Engines (Open Source)
+# Workflow Engines (Open Source)
 
 ![image](https://github.com/user-attachments/assets/00df926b-f6c3-4daf-95bf-3ab9509f81ba)
 
