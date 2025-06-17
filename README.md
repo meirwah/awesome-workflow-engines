@@ -66,7 +66,7 @@
 
 ### [**Arvados**](https://github.com/arvados/arvados) ![Stars](https://img.shields.io/github/stars/arvados/arvados.svg)
 
-![Uploading Screenshot 2025-06-17 at 2.06.39 PM.png…]()
+<img width="1470" alt="Screenshot 2025-06-17 at 2 07 48 PM" src="https://github.com/user-attachments/assets/d3eab985-7fdb-4d87-8b65-3ddb06bc19c6" />
 
 - Open-source data and workflow management system.
 - Built for large-scale bioinformatics and genomics pipelines.
@@ -80,6 +80,9 @@
 - Used by research labs and genomics companies.
 
 ### [**Azkaban**](https://azkaban.github.io/) ![Stars](https://img.shields.io/github/stars/azkaban/azkaban.svg)
+
+<img width="1468" alt="Screenshot 2025-06-17 at 2 08 17 PM" src="https://github.com/user-attachments/assets/700c18ce-db44-449f-a31e-b618d5850c41" />
+
 - Workflow scheduler for batch job automation.
 - Originally developed at LinkedIn to manage Hadoop jobs.
 - Web-based UI for job management and tracking.
@@ -92,6 +95,9 @@
 - Still used in data-heavy enterprises.
 
 ### [**Brigade**](https://brigade.sh/) ![Stars](https://img.shields.io/github/stars/brigadecore/brigade.svg)
+
+<img width="1470" alt="Screenshot 2025-06-17 at 2 08 42 PM" src="https://github.com/user-attachments/assets/1ceaa2a5-00b0-442a-a7a1-93ac0f4bb675" />
+
 - Event-driven scripting platform for Kubernetes.
 - Automates CI/CD, testing, and deployments using JavaScript/TypeScript.
 - Lightweight alternative to full-fledged CI tools.
