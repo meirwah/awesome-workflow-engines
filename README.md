@@ -4,7 +4,7 @@
 
 ## Full Fledged Product
 
-* [**Activepieces**](https://github.com/activepieces/activepieces) ![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)
+### [**Activepieces**](https://github.com/activepieces/activepieces) ![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)
   1. Open-source no-code automation platform.
   2. Serves as a Zapier alternative with drag-and-drop capabilities.
   3. Enables app-to-app automation (Slack, Gmail, Notion, etc.).
@@ -16,7 +16,7 @@
   9. Strong community support and fast-paced updates.
   10. Suitable for startups and enterprises automating repetitive tasks.
 
-* [**AiiDA**](https://github.com/aiidateam/aiida-core) ![Stars](https://img.shields.io/github/stars/aiidateam/aiida-core.svg)
+### [**AiiDA**](https://github.com/aiidateam/aiida-core) ![Stars](https://img.shields.io/github/stars/aiidateam/aiida-core.svg)
   1. Scientific workflow manager tailored for computational science.
   2. Provides full provenance tracking for all computations.
   3. Optimized for use with high-performance computing (HPC) environments.
@@ -28,7 +28,7 @@
   9. Actively used in materials science and quantum chemistry.
   10. Backed by a strong academic research community.
 
-* [**Apache Airflow**](https://github.com/apache/incubator-airflow) ![Stars](https://img.shields.io/github/stars/apache/incubator-airflow.svg)
+### [**Apache Airflow**](https://github.com/apache/incubator-airflow) ![Stars](https://img.shields.io/github/stars/apache/incubator-airflow.svg)
   1. Python-based platform for authoring, scheduling, and monitoring workflows.
   2. Organizes tasks in directed acyclic graphs (DAGs).
   3. Ideal for ETL, batch processing, and data pipeline orchestration.
@@ -40,7 +40,7 @@
   9. Used in production by Airbnb, Lyft, and many others.
   10. Apache project with wide adoption and community.
 
-* [**Argo Workflows**](https://github.com/argoproj/argo-workflows) ![Stars](https://img.shields.io/github/stars/argoproj/argo-workflows.svg)
+### [**Argo Workflows**](https://github.com/argoproj/argo-workflows) ![Stars](https://img.shields.io/github/stars/argoproj/argo-workflows.svg)
   1. Kubernetes-native workflow engine.
   2. Uses YAML for workflow definitions; runs containers as steps.
   3. Ideal for CI/CD, ML workflows, and data processing on Kubernetes.
@@ -52,7 +52,7 @@
   9. Built for DevOps and platform engineering teams.
   10. CNCF project with growing enterprise adoption.
 
-* [**Arvados**](https://github.com/arvados/arvados) ![Stars](https://img.shields.io/github/stars/arvados/arvados.svg)
+### [**Arvados**](https://github.com/arvados/arvados) ![Stars](https://img.shields.io/github/stars/arvados/arvados.svg)
 - Open-source data and workflow management system.
 - Built for large-scale bioinformatics and genomics pipelines.
 - Emphasizes reproducibility, collaboration, and auditability.
@@ -64,7 +64,7 @@
 - Provides data versioning and automatic logging.
 - Used by research labs and genomics companies.
 
-* [**Azkaban**](https://azkaban.github.io/) ![Stars](https://img.shields.io/github/stars/azkaban/azkaban.svg)
+### [**Azkaban**](https://azkaban.github.io/) ![Stars](https://img.shields.io/github/stars/azkaban/azkaban.svg)
 - Workflow scheduler for batch job automation.
 - Originally developed at LinkedIn to manage Hadoop jobs.
 - Web-based UI for job management and tracking.
@@ -76,7 +76,7 @@
 - Lightweight and easy to deploy.
 - Still used in data-heavy enterprises.
 
-* [**Brigade**](https://brigade.sh/) ![Stars](https://img.shields.io/github/stars/brigadecore/brigade.svg)
+### [**Brigade**](https://brigade.sh/) ![Stars](https://img.shields.io/github/stars/brigadecore/brigade.svg)
 - Event-driven scripting platform for Kubernetes.
 - Automates CI/CD, testing, and deployments using JavaScript/TypeScript.
 - Lightweight alternative to full-fledged CI tools.
@@ -88,7 +88,7 @@
 - Open-source and easily extensible.
 - Backed by the CNCF ecosystem.
 
-* [**Bytechef**](https://www.bytechef.io/) ![Stars](https://img.shields.io/github/stars/bytechefhq/bytechef)
+### [**Bytechef**](https://www.bytechef.io/) ![Stars](https://img.shields.io/github/stars/bytechefhq/bytechef)
 - Open-source low-code automation platform.
 - Designed for API integration and workflow orchestration.
 - Clean UI with drag-and-drop builder.
@@ -100,7 +100,7 @@
 - Built for scale and performance.
 - Suitable for both SMBs and enterprise teams.
 
-* [**CabloyJS**](https://cabloy.com) ![Stars](https://img.shields.io/github/stars/zhennann/cabloy.svg)
+### [**CabloyJS**](https://cabloy.com) ![Stars](https://img.shields.io/github/stars/zhennann/cabloy.svg)
 - Full-stack Node.js framework integrating frontend and backend workflows.
 - Combines koa (backend), egg (framework), Vue (frontend), and Framework7 (mobile UI).
 - Built-in workflow engine supports approval chains and business logic.
@@ -112,7 +112,7 @@
 - Easy to extend and customize.
 - Actively maintained with growing community support.
 
-* [**Cadence**](https://github.com/uber/cadence) ![Stars](https://img.shields.io/github/stars/uber/cadence.svg)
+### [**Cadence**](https://github.com/uber/cadence) ![Stars](https://img.shields.io/github/stars/uber/cadence.svg)
 - Distributed orchestration engine by Uber.
 - Manages long-running, stateful, asynchronous workflows.
 - Fault-tolerant with strong retry and error-handling support.
@@ -124,7 +124,7 @@
 - Backed by production usage at Uber.
 - Foundation for the Temporal framework.
 
-* [**Camunda**](https://camunda.com) ![Stars](https://img.shields.io/github/stars/camunda/camunda-bpm-platform.svg)
+### [**Camunda**](https://camunda.com) ![Stars](https://img.shields.io/github/stars/camunda/camunda-bpm-platform.svg)
 - Business Process Model and Notation (BPMN) workflow engine.
 - Can be embedded into Java apps or used standalone.
 - Offers graphical modeler and web-based task management UI.
@@ -136,7 +136,7 @@
 - Used in telecom, banking, insurance sectors.
 - Good documentation and modeling tools for business users.
 
-* [**CDS**](https://ovh.github.io/cds/) ![Stars](https://img.shields.io/github/stars/ovh/cds.svg)
+### [**CDS**](https://ovh.github.io/cds/) ![Stars](https://img.shields.io/github/stars/ovh/cds.svg)
 - Open-source continuous delivery system built by OVHcloud.
 - Designed for DevOps workflows and CI/CD pipelines.
 - Supports pipeline as code with YAML configuration.
@@ -148,7 +148,7 @@
 - Enterprise-grade reliability with audit and tracking.
 - Enables end-to-end automation of software delivery.
 
-* [**CGraph**](https://github.com/ChunelFeng/CGraph) ![Stars](https://img.shields.io/github/stars/ChunelFeng/CGraph.svg)
+### [**CGraph**](https://github.com/ChunelFeng/CGraph) ![Stars](https://img.shields.io/github/stars/ChunelFeng/CGraph.svg)
 - C++17-based DAG framework for building graph-based workflows.
 - Lightweight and header-only with no external dependencies.
 - Supports multi-threaded task execution.
@@ -160,7 +160,7 @@
 - Simple API for fast prototyping.
 - Well-documented and easy to integrate.
 
-* [**CloudSlang**](http://www.cloudslang.io/) ![Stars](https://img.shields.io/github/stars/CloudSlang/cloud-slang.svg)
+### [**CloudSlang**](http://www.cloudslang.io/) ![Stars](https://img.shields.io/github/stars/CloudSlang/cloud-slang.svg)
 - Open-source workflow engine for DevOps automation.
 - Based on YAML DSL for defining workflows.
 - Integrates with tools like Jenkins, Docker, and Ansible.
@@ -172,7 +172,7 @@
 - Lightweight and easy to deploy.
 - Built by HP Software (now Micro Focus).
 
-* [**Conductor**](https://github.com/conductor-oss/conductor) ![Stars](https://img.shields.io/github/stars/conductor-oss/conductor.svg)
+### [**Conductor**](https://github.com/conductor-oss/conductor) ![Stars](https://img.shields.io/github/stars/conductor-oss/conductor.svg)
 - Microservices orchestration platform.
 - Developed originally by Netflix, maintained by Orkes.
 - Designed to build and manage long-running application workflows.
@@ -184,7 +184,7 @@
 - Used by large-scale cloud-native systems.
 - Backed by an active open-source and commercial ecosystem.
 
-* [**Copper**](https://github.com/copper-engine/copper-engine) ![Stars](https://img.shields.io/github/stars/copper-engine/copper-engine.svg)
+### [**Copper**](https://github.com/copper-engine/copper-engine) ![Stars](https://img.shields.io/github/stars/copper-engine/copper-engine.svg)
 - Java-based high-performance workflow engine.
 - Built for complex, long-running business processes.
 - Supports BPMN and custom workflows.
@@ -197,7 +197,7 @@
 - Maintained and battle-tested in real-world applications.
 
 
-* **[Couler](https://github.com/couler-proj/couler)** ![Stars](https://img.shields.io/github/stars/couler-proj/couler.svg)
+### **[Couler](https://github.com/couler-proj/couler)** ![Stars](https://img.shields.io/github/stars/couler-proj/couler.svg)
   1. Unified interface to define workflows across multiple engines like Argo, Tekton, and Airflow.
   2. Enables abstraction of workflow logic from execution engines.
   3. Simplifies switching between different workflow orchestrators.
@@ -209,7 +209,7 @@
   9. Encourages modular workflow design.
   10. Backed by an active open-source community.
 
-* **[Covalent](https://covalent.xyz)** ![Stars](https://img.shields.io/github/stars/AgnostiqHQ/covalent.svg)
+### **[Covalent](https://covalent.xyz)** ![Stars](https://img.shields.io/github/stars/AgnostiqHQ/covalent.svg)
   1. Workflow orchestration platform for quantum and high-performance computing (HPC).
   2. Abstracts backend compute environments.
   3. Supports plugins for extending to custom hardware.
@@ -221,7 +221,7 @@
   9. Supports containerized and virtual environments.
   10. Designed to scale across CPUs, GPUs, and quantum devices.
 
-* **[Cromwell](https://github.com/broadinstitute/cromwell)** ![Stars](https://img.shields.io/github/stars/broadinstitute/cromwell.svg)
+### **[Cromwell](https://github.com/broadinstitute/cromwell)** ![Stars](https://img.shields.io/github/stars/broadinstitute/cromwell.svg)
   1. Developed by the Broad Institute.
   2. Executes workflows defined in WDL (Workflow Description Language) and CWL.
   3. Tailored for genomics and biomedical research workflows.
@@ -233,7 +233,7 @@
   9. Easily integrates into bioinformatics pipelines.
   10. Strong support community and documentation.
 
-* **[Cylc](https://cylc.github.io/)** ![Stars](https://img.shields.io/github/stars/cylc/cylc-flow.svg)
+### **[Cylc](https://cylc.github.io/)** ![Stars](https://img.shields.io/github/stars/cylc/cylc-flow.svg)
   1. Advanced workflow engine for cyclic and acyclic tasks.
   2. Originally designed for weather and climate modeling.
   3. Handles complex dependencies and triggering logic.
@@ -245,7 +245,7 @@
   9. Ideal for scientific research use cases.
   10. Backed by NIWA and open-source contributors.
 
-* **[Dagu](https://github.com/yohamta/dagu)** ![Stars](https://img.shields.io/github/stars/yohamta/dagu.svg)
+### **[Dagu](https://github.com/yohamta/dagu)** ![Stars](https://img.shields.io/github/stars/yohamta/dagu.svg)
   1. No-code workflow executor built with simplicity in mind.
   2. Workflows defined using YAML configuration.
   3. Command-line based interface.
@@ -257,7 +257,7 @@
   9. Integrates easily with other CLI tools.
   10. Maintains high readability and low complexity.
 
-* **[Dagster](https://dagster.io/)** ![Stars](https://img.shields.io/github/stars/dagster-io/dagster.svg)
+### **[Dagster](https://dagster.io/)** ![Stars](https://img.shields.io/github/stars/dagster-io/dagster.svg)
   1. Open-source orchestration platform for ML, analytics, and ETL.
   2. Strong focus on data pipeline observability.
   3. Type-safe and testable pipelines.
@@ -269,7 +269,7 @@
   9. Cloud-ready with Dagster Cloud offering.
   10. Fast-growing community and enterprise backing.
 
-* **[Dapr Workflows](https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-overview/)** ![Stars](https://img.shields.io/github/stars/dapr/dapr.svg)
+### **[Dapr Workflows](https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-overview/)** ![Stars](https://img.shields.io/github/stars/dapr/dapr.svg)
   1. Durable workflows using Dapr runtime.
   2. Built on top of the Durable Task Framework.
   3. Supports multiple languages: Python, JavaScript, .NET, Java, Go.
@@ -281,7 +281,7 @@
   9. Fits well into microservices architecture.
   10. Maintained by the Dapr open-source community.
 
-* **[Didact](https://www.didact.dev)** ![Stars](https://img.shields.io/github/stars/didacthq/didact.svg)
+### **[Didact](https://www.didact.dev)** ![Stars](https://img.shields.io/github/stars/didacthq/didact.svg)
   1. .NET-native job orchestration framework.
   2. Easy integration into existing .NET applications.
   3. Declarative workflow definitions using C#.
@@ -293,7 +293,7 @@
   9. Ideal for enterprise .NET ecosystems.
   10. Open source and community-driven.
 
-* **[DigDag](https://www.digdag.io)** ![Stars](https://img.shields.io/github/stars/treasure-data/digdag.svg)
+### **[DigDag](https://www.digdag.io)** ![Stars](https://img.shields.io/github/stars/treasure-data/digdag.svg)
   1. Open-source workflow engine for complex pipelines.
   2. Supports multiple backends including Hadoop, Docker, etc.
   3. Simple YAML-based job definitions.
@@ -305,7 +305,7 @@
   9. Cloud and on-prem deployment ready.
   10. Maintained by Treasure Data.
 
-* **[DolphinScheduler](https://github.com/apache/dolphinscheduler)** ![Stars](https://img.shields.io/github/stars/apache/dolphinscheduler.svg)
+### **[DolphinScheduler](https://github.com/apache/dolphinscheduler)** ![Stars](https://img.shields.io/github/stars/apache/dolphinscheduler.svg)
   1. Enterprise-grade workflow scheduler.
   2. DAG-based UI for job orchestration.
   3. Strong support for big data tasks.
@@ -317,7 +317,7 @@
   9. Suited for data integration and batch processing.
   10. Backed by Apache Foundation.
 
-* **[elsa-workflows](https://github.com/elsa-workflows/elsa-core)** ![Stars](https://img.shields.io/github/stars/elsa-workflows/elsa-core.svg)
+### **[elsa-workflows](https://github.com/elsa-workflows/elsa-core)** ![Stars](https://img.shields.io/github/stars/elsa-workflows/elsa-core.svg)
   1. .NET Standard 2.0 workflow library.
   2. Supports long-running and event-driven workflows.
   3. Visual designer for workflow modeling.
@@ -329,7 +329,7 @@
   9. Background service hosting.
   10. Ideal for enterprise .NET solutions.
 
-* **[easy-rules](https://github.com/j-easy/easy-rules)** ![Stars](https://img.shields.io/github/stars/j-easy/easy-rules.svg)
+### **[easy-rules](https://github.com/j-easy/easy-rules)** ![Stars](https://img.shields.io/github/stars/j-easy/easy-rules.svg)
   1. Lightweight Java rules engine.
   2. Based on the concept of rules, facts, and inference.
   3. Embeddable in any Java application.
