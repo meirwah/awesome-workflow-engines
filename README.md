@@ -97,7 +97,7 @@ A curated list of awesome open source workflow engines
 * [Azure Logic Apps](https://azure.microsoft.com/en-us/products/logic-apps) - Built on a containerized runtime, deploy and run anywhere to increase scale and portability while automating business-critical workflows.
 * [Braze](https://www.braze.com/) - Power customer-centric interactions between consumers and brands in real-time.
 * [Camunda Cloud](https://camunda.com/products/cloud/) - A workflow service executing BPMN, providing various language clients, based on the open source project [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe).
-* [Codehooks.io](https://codehooks.io/) – Serverless backend with a workflow engine for automation and AI, supporting LLM-generated workflows via the [codehooks-js](https://www.npmjs.com/package/codehooks-js) SDK.
+* [Codehooks.io](https://codehooks.io/) – Serverless backend with a workflow engine for automation and AI, supporting LLM-generated workflows via the codehooks-js NPM package.
 * [Corezoid](https://corezoid.com/) - Hyperautomation engine.
 * [Embed Workflow](https://embedworkflow.com/) - Simple native workflow builder for your end-users
 * [Orkes Conductor](https://orkes.io/cloud/) - Orkes provides Netflix Conductor as a cloud services across all the major cloud providers with enterprise features such as security, integrations and Visual workflow code editor.
