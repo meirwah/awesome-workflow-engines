@@ -75,6 +75,7 @@ A curated list of awesome open source workflow engines
 * [Titanoboa](https://titanoboa.io/) [![Stars](https://img.shields.io/github/stars/mikub/titanoboa.svg)](https://github.com/mikub/titanoboa) - Titanoboa is a platform for creating complex workflows on JVM.
 * [Tork](https://github.com/runabol/tork) [![Stars](https://img.shields.io/github/stars/runabol/tork.svg)](https://github.com/runabol/tork) - Tork is a very lightweight workflow engine written in Golang.
 * [uTask](https://github.com/ovh/utask) [![Stars](https://img.shields.io/github/stars/ovh/utask)](https://github.com/ovh/utask/stargazers) - Automation engine that models and executes business processes declared in yaml.
+* [Velda](https://velda.io) [![Stars](https://img.shields.io/github/stars/velda-io/velda.svg)](https://github.com/velda-io/velda) - Velda is a developer-friendly workflow engine fused with a dev environment — define pipelines with shell commands, no builds or dependency setup required.
 * [Wexflow](https://wexflow.github.io/) [![Stars](https://img.shields.io/github/stars/aelassas/wexflow)](https://github.com/aelassas/wexflow) .NET Workflow Engine and Automation Platform.
 * [Windmill](https://www.windmill.dev/) [![Stars](https://img.shields.io/github/stars/windmill-labs/windmill.svg)](https://github.com/windmill-labs/windmill) - Turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 * [Workflow Engine](https://workflowengine.io) - A lightweight .NET and Java workflow engine.
