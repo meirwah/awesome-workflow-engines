@@ -1,11 +1,11 @@
-# awesome-workflow-engines
+# Awesome Workflow Engines (Open Source)
 
-A curated list of awesome open source workflow engines
-
+![image](https://github.com/user-attachments/assets/77385e85-7d21-49a2-a941-fee5f5b51e5f)
 
 ## Full fledged product
 
 * [Activepieces](https://github.com/activepieces/activepieces) [![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)](https://github.com/activepieces/activepieces) - Open source no-code business automation, alternative to Zapier
+  
 * [AiiDA](https://github.com/aiidateam/aiida-core) [![Stars](https://img.shields.io/github/stars/aiidateam/aiida-core.svg)](https://github.com/aiidateam/aiida-core) - Open source workflow manager for computational science with strong focus on performance, provenance, and extensibility.
 * [Airflow](https://github.com/apache/incubator-airflow) [![Stars](https://img.shields.io/github/stars/apache/incubator-airflow.svg)](https://github.com/apache/incubator-airflow) - Python-based platform for running directed acyclic graphs (DAGs) of tasks
 * [Argo Workflows](https://github.com/argoproj/argo-workflows) [![Stars](https://img.shields.io/github/stars/argoproj/argo-workflows.svg)](https://github.com/argoproj/argo-workflows) - Open source container-native workflow engine for getting work done on Kubernetes
@@ -131,3 +131,4 @@ A curated list of awesome open source workflow engines
 * [Viewflow](http://viewflow.io) [![Stars](https://img.shields.io/github/stars/viewflow/viewflow.svg)](https://github.com/viewflow/viewflow) - Reusable workflow library that helps organize people collaboration business logic in django applications.
 * [Workflow Core](https://github.com/danielgerlag/workflow-core) [![Stars](https://img.shields.io/github/stars/danielgerlag/workflow-core.svg)](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
 * [WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET) [![Stars](https://img.shields.io/github/stars/optimajet/WorkflowEngine.NET.svg)](https://github.com/optimajet/WorkflowEngine.NET) - WorkflowEngine.NET - component that adds workflow in your application. It can be fully integrated into your application, or be in the form of a specific service (such as a web service)
+](https://github.com/meirwah/awesome-workflow-engines)
