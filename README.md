@@ -96,6 +96,7 @@ A curated list of awesome open source workflow engines
 ## SAAS
 
 * [AWS Step Functions](https://aws.amazon.com/step-functions/?step-functions) - Clear workflows for modern applications.
+* [Azure Durable Functions](https://learn.microsoft.com/en-us/azure/azure-functions/durable/) - Durable Functions is a feature of [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview) that lets you write stateful functions in a serverless compute environment. The extension lets you define stateful workflows by writing orchestrator functions and stateful entities by writing entity functions using the Azure Functions programming model. Behind the scenes, the extension manages state, checkpoints, and restarts for you, allowing you to focus on your business logic.
 * [Azure Logic Apps](https://azure.microsoft.com/en-us/products/logic-apps) - Built on a containerized runtime, deploy and run anywhere to increase scale and portability while automating business-critical workflows.
 * [Braze](https://www.braze.com/) - Power customer-centric interactions between consumers and brands in real-time.
 * [Camunda Cloud](https://camunda.com/products/cloud/) - A workflow service executing BPMN, providing various language clients, based on the open source project [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe).
