@@ -3,6 +3,7 @@
 A curated list of awesome open source workflow engines
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent workflow orchestration with task registry, automated delegation, and quality validation. MIT licensed.
 ## Full fledged product
 
 * [Activepieces](https://github.com/activepieces/activepieces) [![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)](https://github.com/activepieces/activepieces) - Open source no-code business automation, alternative to Zapier
