@@ -107,6 +107,7 @@ A curated list of awesome open source workflow engines
 * [Google Cloud Workflows](https://cloud.google.com/workflows/) - Combine Google Cloud services and APIs to  build reliable applications, process automation, and data and machine learning pipelines.
 * [Inngest](https://www.inngest.com/) - A scalable, event-driven durable execution platform
 * [Zenaton](https://zenaton.com) - Workflow engine for data processes and background jobs available in PHP, Node.js, Python and Ruby.
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell community-built AI agent skills and personas.
 
 
 ## Library (embedded usage)
