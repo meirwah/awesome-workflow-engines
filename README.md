@@ -3,6 +3,7 @@
 A curated list of awesome open source workflow engines
 
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=meirwah_awesome-workflow-engines) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## Full fledged product
 
 * [Activepieces](https://github.com/activepieces/activepieces) [![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)](https://github.com/activepieces/activepieces) - Open source no-code business automation, alternative to Zapier
