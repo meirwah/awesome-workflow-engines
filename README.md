@@ -85,6 +85,8 @@ A curated list of awesome open source workflow engines
 * [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe) - A horizontally scalable, cloud-native workflow engine that executes BPMN models and is best operated on Kubernetes; polyglot clients connect via gRPC or available language clients.
 
 
+* [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+* [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 ## BPM Suite
 
 * [Activiti](https://www.activiti.org/) [![Stars](https://img.shields.io/github/stars/Activiti/Activiti.svg)](https://github.com/Activiti/Activiti) - Activiti is a leading lightweight, java-centric open-source BPMN engine supporting real-world process automation needs.
