@@ -5,6 +5,7 @@ A curated list of awesome open source workflow engines
 
 ## Full fledged product
 
+* [Abstra](https://github.com/abstra-app/abstra-lib) [![Stars](https://img.shields.io/github/stars/abstra-app/abstra-lib.svg)](https://github.com/abstra-app/abstra-lib) - Batteries included workflow builder for business processes (Databases, Forms, Job schedulers, Webhooks, AI, Email, File system, Access control, etc...)
 * [Activepieces](https://github.com/activepieces/activepieces) [![Stars](https://img.shields.io/github/stars/activepieces/activepieces.svg)](https://github.com/activepieces/activepieces) - Open source no-code business automation, alternative to Zapier
 * [AiiDA](https://github.com/aiidateam/aiida-core) [![Stars](https://img.shields.io/github/stars/aiidateam/aiida-core.svg)](https://github.com/aiidateam/aiida-core) - Open source workflow manager for computational science with strong focus on performance, provenance, and extensibility.
 * [Airflow](https://github.com/apache/incubator-airflow) [![Stars](https://img.shields.io/github/stars/apache/incubator-airflow.svg)](https://github.com/apache/incubator-airflow) - Python-based platform for running directed acyclic graphs (DAGs) of tasks
