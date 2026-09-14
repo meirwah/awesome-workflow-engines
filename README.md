@@ -82,6 +82,7 @@ A curated list of awesome open source workflow engines
 * [Windmill](https://www.windmill.dev/) [![Stars](https://img.shields.io/github/stars/windmill-labs/windmill.svg)](https://github.com/windmill-labs/windmill) - Turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 * [Workflow Engine](https://workflowengine.io) - A lightweight .NET and Java workflow engine.
 * [YAWL](https://yawlfoundation.github.io/index.html) [![Stars](https://img.shields.io/github/stars/yawlfoundation/yawl.svg)](https://github.com/yawlfoundation/yawl) - (Yet Another Workflow Language), Java-based, handles complex data transformations, and full integration with organizational resources and external Web Services.
+* [YYLO CLI](https://github.com/yylo-dev/yylo) [![Stars](https://img.shields.io/github/stars/yylo-dev/yylo.svg)](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents: typed task workflows in dedicated git worktrees, guarded merge admission, and durable receipts for repository changes. Installable from npm as @yylo/cli.
 * [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe) - A horizontally scalable, cloud-native workflow engine that executes BPMN models and is best operated on Kubernetes; polyglot clients connect via gRPC or available language clients.
 
 
