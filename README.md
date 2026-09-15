@@ -79,11 +79,11 @@ A curated list of awesome open source workflow engines
 * [Tork](https://github.com/runabol/tork) [![Stars](https://img.shields.io/github/stars/runabol/tork.svg)](https://github.com/runabol/tork) - Tork is a very lightweight workflow engine written in Golang.
 * [uTask](https://github.com/ovh/utask) [![Stars](https://img.shields.io/github/stars/ovh/utask)](https://github.com/ovh/utask/stargazers) - Automation engine that models and executes business processes declared in yaml.
 * [Wexflow](https://wexflow.github.io/) [![Stars](https://img.shields.io/github/stars/aelassas/wexflow)](https://github.com/aelassas/wexflow) .NET Workflow Engine and Automation Platform.
-* [Wiggle](https://github.com/hadielmougy/wiggle) [![Stars](https://img.shields.io/github/stars/hadielmougy/wiggle.svg)](https://github.com/hadielmougy/wiggle) - Durable workflow engine for the JVM: a process is defined as a typed graph of named steps that the server owns and executes as a state machine, while pull-based gRPC workers (Java, Go, Python) run the steps; it shards into isolated cells, each with its own database and cluster.
 * [Windmill](https://www.windmill.dev/) [![Stars](https://img.shields.io/github/stars/windmill-labs/windmill.svg)](https://github.com/windmill-labs/windmill) - Turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 * [Workflow Engine](https://workflowengine.io) - A lightweight .NET and Java workflow engine.
 * [YAWL](https://yawlfoundation.github.io/index.html) [![Stars](https://img.shields.io/github/stars/yawlfoundation/yawl.svg)](https://github.com/yawlfoundation/yawl) - (Yet Another Workflow Language), Java-based, handles complex data transformations, and full integration with organizational resources and external Web Services.
 * [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe) - A horizontally scalable, cloud-native workflow engine that executes BPMN models and is best operated on Kubernetes; polyglot clients connect via gRPC or available language clients.
+* [Wiggle](https://github.com/hadielmougy/wiggle) [![Stars](https://img.shields.io/github/stars/hadielmougy/wiggle.svg)](https://github.com/hadielmougy/wiggle) - Cellular durable workflow engine for the JVM: each namespace is a cell with its own database and cluster, and a coordinator shards instances across cells with directory-free routing, so blast-radius isolation and scale-out are part of the model.
 
 
 ## BPM Suite
