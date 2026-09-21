@@ -83,6 +83,7 @@ A curated list of awesome open source workflow engines
 * [Workflow Engine](https://workflowengine.io) - A lightweight .NET and Java workflow engine.
 * [YAWL](https://yawlfoundation.github.io/index.html) [![Stars](https://img.shields.io/github/stars/yawlfoundation/yawl.svg)](https://github.com/yawlfoundation/yawl) - (Yet Another Workflow Language), Java-based, handles complex data transformations, and full integration with organizational resources and external Web Services.
 * [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe) - A horizontally scalable, cloud-native workflow engine that executes BPMN models and is best operated on Kubernetes; polyglot clients connect via gRPC or available language clients.
+* [Wiggle](https://github.com/hadielmougy/wiggle) [![Stars](https://img.shields.io/github/stars/hadielmougy/wiggle.svg)](https://github.com/hadielmougy/wiggle) - Cellular durable workflow engine for the JVM: each namespace is a cell with its own database and cluster, and a coordinator shards instances across cells with directory-free routing, so blast-radius isolation and scale-out are part of the model.
 
 
 ## BPM Suite
