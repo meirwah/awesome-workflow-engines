@@ -97,6 +97,7 @@ A curated list of awesome open source workflow engines
 ## SAAS
 
 * [AWS Step Functions](https://aws.amazon.com/step-functions/?step-functions) - Clear workflows for modern applications.
+* [AWS Lambda durable functions](https://docs.aws.amazon.com/lambda/latest/dg/durable-functions.html) - Durable execution inside AWS Lambda: steps and waits written in Python, TypeScript, or Java, checkpointed automatically, executions up to one year, no worker fleet to run.
 * [Azure Logic Apps](https://azure.microsoft.com/en-us/products/logic-apps) - Built on a containerized runtime, deploy and run anywhere to increase scale and portability while automating business-critical workflows.
 * [Braze](https://www.braze.com/) - Power customer-centric interactions between consumers and brands in real-time.
 * [Camunda Cloud](https://camunda.com/products/cloud/) - A workflow service executing BPMN, providing various language clients, based on the open source project [Zeebe](https://zeebe.io) [![Stars](https://img.shields.io/github/stars/zeebe-io/zeebe.svg)](https://github.com/zeebe-io/zeebe).
@@ -112,6 +113,7 @@ A curated list of awesome open source workflow engines
 ## Library (embedded usage)
 
 * [Automatiko](https://automatiko.io) [![Stars](https://img.shields.io/github/stars/automatiko-io/automatiko-engine.svg)](https://github.com/automatiko-io/automatiko-engine) - a toolkit to build services and functions based on workflows (primarily BPMN2). Introduces and implements concepts: workflow as a service, workflow as a function and workflow as a function flow.
+* [AWS Durable Execution SDK](https://github.com/aws/aws-durable-execution-sdk-python) [![Stars](https://img.shields.io/github/stars/aws/aws-durable-execution-sdk-python.svg)](https://github.com/aws/aws-durable-execution-sdk-python) - Client SDKs for Lambda durable functions in [Python](https://github.com/aws/aws-durable-execution-sdk-python), [TypeScript](https://github.com/aws/aws-durable-execution-sdk-js), and [Java](https://github.com/aws/aws-durable-execution-sdk-java): steps, waits, and callbacks written in code, checkpointed and replayed by the Lambda-hosted durable execution service (not an embeddable engine).
 * [C++ Workflow](https://github.com/sogou/workflow) [![Stars](https://img.shields.io/github/stars/sogou/workflow.svg)](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine.
 * [Camunda](https://camunda.com) [![Stars](https://img.shields.io/github/stars/camunda/camunda-bpm-platform.svg)](https://github.com/camunda/camunda-bpm-platform) - BPMN-based workflow engine that can be embedded as java library (e.g. Spring Boot) or used standalone, including a graphical modeler and operations tooling.
 * [Captain](https://github.com/LiveRamp/captain) [![Stars](https://img.shields.io/github/stars/LiveRamp/captain.svg)](https://github.com/LiveRamp/captain) - Distributed, light-weight java workflow engine for a microservice architecture.
