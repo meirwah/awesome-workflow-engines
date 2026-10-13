@@ -1,5 +1,8 @@
 # awesome-workflow-engines
 
+* [Ano](https://ano.chat) - A collaborative shell with built-in AI integration (Claude Code) and custom CLI/MCP automations designed for elite devs.
+
+
 A curated list of awesome open source workflow engines
 
 
