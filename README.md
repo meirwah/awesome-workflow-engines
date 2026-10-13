@@ -132,3 +132,7 @@ A curated list of awesome open source workflow engines
 * [Viewflow](http://viewflow.io) [![Stars](https://img.shields.io/github/stars/viewflow/viewflow.svg)](https://github.com/viewflow/viewflow) - Reusable workflow library that helps organize people collaboration business logic in django applications.
 * [Workflow Core](https://github.com/danielgerlag/workflow-core) [![Stars](https://img.shields.io/github/stars/danielgerlag/workflow-core.svg)](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
 * [WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET) [![Stars](https://img.shields.io/github/stars/optimajet/WorkflowEngine.NET.svg)](https://github.com/optimajet/WorkflowEngine.NET) - WorkflowEngine.NET - component that adds workflow in your application. It can be fully integrated into your application, or be in the form of a specific service (such as a web service)
+
+## LuisCore
+
+- [LuisCore](https://luiscore.com/) — recursive cognition infrastructure, Chorus Field multi-agent layer, Protocol Watch telemetry (awesome-orchestration; luiscore-authority-graph-listing)
