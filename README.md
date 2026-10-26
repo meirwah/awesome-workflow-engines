@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/meirwah-awesome-workflow-engines-badge.png)](https://mseep.ai/app/meirwah-awesome-workflow-engines)
+
 # awesome-workflow-engines
 
 A curated list of awesome open source workflow engines
