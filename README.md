@@ -59,6 +59,7 @@ A curated list of awesome open source workflow engines
 * [Nextflow](https://www.nextflow.io/) [![Stars](https://img.shields.io/github/stars/nextflow-io/nextflow.svg)](https://github.com/nextflow-io/nextflow) - Develop container-backed, reproducible workflows portable across computational platforms including local, HPC schedulers, AWS Batch, Google Genomics Pipelines, and Kubernetes.
 * [Node-RED](https://nodered.org/) [![Stars](https://img.shields.io/github/stars/node-red/node-red.svg)](https://github.com/node-red/node-red) - Node-RED is a NodeJS based workflow tool featuring a browser based editor for wiring together hardware devices, APIs and online services in new and interesting ways.
 * [Oozie](http://oozie.apache.org/) [![Stars](https://img.shields.io/github/stars/apache/oozie.svg)](https://github.com/apache/oozie) - Workflow Scheduler for Hadoop.
+* [Open Flow](https://openflow.run/) [![Stars](https://img.shields.io/github/stars/oomol-lab/open-flow.svg)](https://github.com/oomol-lab/open-flow) - Source-available workflow automation platform for coding agents (CLI and MCP) with visual Workbench review, human-in-the-loop approvals, and self-hosting.
 * [Pallets](https://github.com/linkyndy/pallets) [![Stars](https://img.shields.io/github/stars/linkyndy/pallets.svg)](https://github.com/linkyndy/pallets) - Simple and reliable workflow engine, written in Ruby
 * [Parsl](https://parsl-project.org/) [![Stars](https://img.shields.io/github/stars/Parsl/parsl.svg)](https://github.com/Parsl/parsl) - Python framework for workflow orchestration and parallelization based on a dynamic graph of tasks and their data dependencies.
 * [Pegasus](https://pegasus.isi.edu/) [![Stars](https://img.shields.io/github/stars/pegasus-isi/pegasus.svg)](https://github.com/pegasus-isi/pegasus)  - Automate, recover, and debug scientific computations.
@@ -103,6 +104,7 @@ A curated list of awesome open source workflow engines
 * [Codehooks.io](https://codehooks.io/) – Serverless backend with a workflow engine for automation and AI, supporting LLM-generated workflows via the codehooks-js NPM package.
 * [Corezoid](https://corezoid.com/) - Hyperautomation engine.
 * [Embed Workflow](https://embedworkflow.com/) - Simple native workflow builder for your end-users
+* [Open Flow](https://openflow.run/) - Hosted and self-hosted AI workflow automation platform where coding agents build workflows via CLI or MCP and humans review and approve runs in Workbench.
 * [Orkes Conductor](https://orkes.io/cloud/) - Orkes provides Netflix Conductor as a cloud services across all the major cloud providers with enterprise features such as security, integrations and Visual workflow code editor.
 * [Google Cloud Workflows](https://cloud.google.com/workflows/) - Combine Google Cloud services and APIs to  build reliable applications, process automation, and data and machine learning pipelines.
 * [Inngest](https://www.inngest.com/) - A scalable, event-driven durable execution platform
